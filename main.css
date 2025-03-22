@@ -1,8 +1,11 @@
 p.bio{
     color: blue;
+    font-size: 20px;
+    font-family: arial;
 }
 
 #header{
     color: purple;
+    background-color: pink;
 }
 
